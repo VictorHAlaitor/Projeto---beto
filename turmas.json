@@ -1,0 +1,16 @@
+[
+  {
+    "nome": "Turma 101",
+    "codigo": "T101",
+    "disciplina": "A1234",
+    "professor": "P0001",
+    "alunos": ["A0001"]
+  },
+  {
+    "nome": "Turma 202",
+    "codigo": "T202",
+    "disciplina": "B1234",
+    "professor": "P0002",
+    "alunos": ["A0002"]
+  }
+]

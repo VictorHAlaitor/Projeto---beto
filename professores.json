@@ -1,0 +1,22 @@
+[
+  {
+    "nome": "Carlos Oliveira",
+    "matricula": "P0001",
+    "data_nascimento": "10/05/1980",
+    "sexo": "Masculino",
+    "endereco": "Rua dos Professores, 10",
+    "telefone": "47977770003",
+    "email": "carlos@escola.com",
+    "disciplina": "A1234"
+  },
+  {
+    "nome": "Ana Martins",
+    "matricula": "P0002",
+    "data_nascimento": "15/09/1985",
+    "sexo": "Feminino",
+    "endereco": "Av. do Ensino, 100",
+    "telefone": "47966660004",
+    "email": "ana@escola.com",
+    "disciplina": "B1234"
+  }
+]

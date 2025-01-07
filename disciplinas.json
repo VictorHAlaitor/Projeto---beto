@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "Programação I",
+    "codigo": "A1234",
+    "carga_horaria": "80h",
+    "professor": "P0001"
+  },
+  {
+    "nome": "Banco de Dados",
+    "codigo": "B1234",
+    "carga_horaria": "60h",
+    "professor": "P0002"
+  }
+]

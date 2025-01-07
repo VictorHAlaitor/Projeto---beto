@@ -1,0 +1,29 @@
+[
+    {
+        "nome": "Maria Silva",
+        "matricula": "A0001",
+        "data_nascimento": "01/01/2001",
+        "sexo": "Feminino",
+        "endereco": "Rua das Flores, 123, Centro",
+        "telefone": "47999990001",
+        "email": "maria@exemplo.com"
+    },
+    {
+        "nome": "João Pereira",
+        "matricula": "A0002",
+        "data_nascimento": "02/02/2002",
+        "sexo": "Masculino",
+        "endereco": "Av. Central, 456, Bairro Alvorada",
+        "telefone": "47988880002",
+        "email": "joao@exemplo.com"
+    },
+    {
+        "nome": "Chico Bento",
+        "matricula": "A0003",
+        "data_nasc": "01/04/2018",
+        "sexo": "Neutro",
+        "endereco": "Rua das Bermudas, 423, Centro",
+        "telefone": "",
+        "email": "chico@bento.com"
+    }
+]
